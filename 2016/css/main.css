@@ -100,8 +100,8 @@
 
 /********** TOP CORNER LOGIN BUTTONS ***********/
 
-#top_button,#top_button ul {
-    float:center;
+.top_button{
+   
     list-style:none;
     line-height:1em;
     background:transparent;
@@ -111,7 +111,7 @@
     padding:0;
 }
 
-#top_button a{
+.top_button a{
     display: inline;
     color: #cccccc;
     text-decoration:none;
@@ -119,7 +119,7 @@
     padding: 0px 3px 3px 3px;
 }
 
-#top_button li{
+.top_button li{
     display: inline;
     line-height: 1em;
     list-style-type: none;
