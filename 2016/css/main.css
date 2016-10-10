@@ -98,6 +98,12 @@
 
 
 
+.logo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
 /********** TOP CORNER LOGIN BUTTONS ***********/
 
 .top_button{
@@ -6191,7 +6197,7 @@ fieldset.radio.btn-group {
 .form-vertical .controls {
   margin-left: 0;
 }
-..width-auto {
+.width-auto {
   width: auto;
 }
 .btn-group .chzn-results {
